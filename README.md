@@ -1,0 +1,3 @@
+# simplebox
+
+Openbox theme
